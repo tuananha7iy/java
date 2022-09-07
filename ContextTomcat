@@ -1,0 +1,1 @@
+<Context path="/path_web" reloadable="true" docBase="path_to_project" workDir="path_to_project\work" />
